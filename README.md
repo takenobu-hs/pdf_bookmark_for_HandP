@@ -1,14 +1,14 @@
-# PDF bookmarks for HandP (Computer Architecture, 6th) Japanese version
+# PDF bookmarks for H&P (Computer Architecture, 6th) Japanese version
 
 This is unofficial information on how to add bookmarks (outline) to the Japanese version PDF of "Computer Architecture: A Quantitative Approach, Sixth Edition".
 
 
 ## Overivew
 
-The book is available for purchase from the following link:
+The book is available for purchase from the following official website:
   * https://tatsu-zine.com/books/computer-architecture-6ed
 
-This PDF does not have bookmarks (outline) in the content. Therefore, you can add them using the data from this repository and following the steps below.
+This PDF does not have bookmarks (outline) in the body content. Therefore, you can add them using the data from this repository and following the step below.
 
 
 ## Disclaimer
@@ -17,9 +17,9 @@ This PDF does not have bookmarks (outline) in the content. Therefore, you can ad
 > This procedure does not provide any guarantees.
 > Please make sure to back up the original PDF to avoid any potential damage to it.
 
-## Step
+## How to generate a PDF with bookmarks
 
-For example, with the following command, you can generate a new PDF with added bookmarks. The environment assumes Ubuntu. This procedure requires pdftk.
+For example, with the following command, you can generate a new PDF with added bookmarks. The environment assumes Ubuntu. This procedure requires `pdftk`.
 
 ```bash
 $ pdftk ORIGINAL.pdf update_info_utf8 metadata.txt output NEW.pdf
