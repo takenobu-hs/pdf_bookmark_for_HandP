@@ -14,17 +14,20 @@ This PDF does not have bookmarks (outline) in the content. Therefore, you can ad
 ## Disclaimer
 
 > [!CAUTION]
-> This procedure is provided without any guarantees.
+> This procedure does not provide any guarantees.
 > Please make sure to back up the original PDF to avoid any potential damage to it.
 
 ## Step
 
-For example, by following the steps below, you can generate a new PDF with added bookmarks.
+For example, with the following command, you can generate a new PDF with added bookmarks. The environment assumes Ubuntu. This procedure requires pdftk.
+
+```bash
+$ pdftk ORIGINAL.pdf update_info_utf8 metadata.txt output NEW.pdf
+```
+
+If the original PDF is updated, please generate the metadata.txt file using the steps below, and then execute the command above.
 
 ```bash
 $ pdftk ORIGINAL.pdf dump_data > data/metadata.org.txt
-
 $ sed -e  '/BookmarkPageNumber: 22/ r data/body_bookmark.txt' data/metadata.org.txt > metadata.txt
-
-$ pdftk ORIGINAL.pdf update_info_utf8 metadata.txt output NEW.pdf
 ```
