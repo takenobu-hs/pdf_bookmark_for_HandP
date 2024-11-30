@@ -1,0 +1,524 @@
+BookmarkBegin
+BookmarkTitle: 1章 定量的な設計と解析の基礎
+BookmarkLevel: 1
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: 1.1 はじめに
+BookmarkLevel: 2
+BookmarkPageNumber: 22
+BookmarkBegin
+BookmarkTitle: 1.2 コンピュータのクラス
+BookmarkLevel: 2
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: 1.3 コンピュータアーキテクチャを設計する
+BookmarkLevel: 2
+BookmarkPageNumber: 27
+BookmarkBegin
+BookmarkTitle: 1.4 テクノロジのトレンド
+BookmarkLevel: 2
+BookmarkPageNumber: 31
+BookmarkBegin
+BookmarkTitle: 1.5 半導体の電力とエネルギーのトレンド
+BookmarkLevel: 2
+BookmarkPageNumber: 34
+BookmarkBegin
+BookmarkTitle: 1.6 コストのトレンド
+BookmarkLevel: 2
+BookmarkPageNumber: 37
+BookmarkBegin
+BookmarkTitle: 1.7 確実性
+BookmarkLevel: 2
+BookmarkPageNumber: 40
+BookmarkBegin
+BookmarkTitle: 1.8 性能の測定、報告、整理の方法
+BookmarkLevel: 2
+BookmarkPageNumber: 41
+BookmarkBegin
+BookmarkTitle: 1.9 コンピュータ設計の定量的な原則
+BookmarkLevel: 2
+BookmarkPageNumber: 46
+BookmarkBegin
+BookmarkTitle: 1.10 総合的な実例：性能、価格、電力
+BookmarkLevel: 2
+BookmarkPageNumber: 50
+BookmarkBegin
+BookmarkTitle: 1.11 誤った考えと落とし穴
+BookmarkLevel: 2
+BookmarkPageNumber: 52
+BookmarkBegin
+BookmarkTitle: 1.12 おわりに
+BookmarkLevel: 2
+BookmarkPageNumber: 54
+BookmarkBegin
+BookmarkTitle: 1.13 歴史展望と参考文献
+BookmarkLevel: 2
+BookmarkPageNumber: 56
+BookmarkBegin
+BookmarkTitle: 1.14 ケーススタディと演習問題
+BookmarkLevel: 2
+BookmarkPageNumber: 56
+BookmarkBegin
+BookmarkTitle: 2章 メモリ階層の設計
+BookmarkLevel: 1
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: 2.1 はじめに
+BookmarkLevel: 2
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: 2.2 メモリ技術と最適化
+BookmarkLevel: 2
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: 2.3 キャッシュの性能を向上させる10の高度な改良法
+BookmarkLevel: 2
+BookmarkPageNumber: 71
+BookmarkBegin
+BookmarkTitle: 2.4 保護：仮想メモリと仮想マシン
+BookmarkLevel: 2
+BookmarkPageNumber: 82
+BookmarkBegin
+BookmarkTitle: 2.5 他の章との関連：メモリ階層の設計
+BookmarkLevel: 2
+BookmarkPageNumber: 87
+BookmarkBegin
+BookmarkTitle: 2.6 総合的な実例：ARM Cortex-A53とIntel Core i7 6700のメモリ階層
+BookmarkLevel: 2
+BookmarkPageNumber: 88
+BookmarkBegin
+BookmarkTitle: 2.7 誤った考えと落とし穴
+BookmarkLevel: 2
+BookmarkPageNumber: 95
+BookmarkBegin
+BookmarkTitle: 2.8 おわりに：将来予測
+BookmarkLevel: 2
+BookmarkPageNumber: 97
+BookmarkBegin
+BookmarkTitle: 2.9 歴史展望と参考文献
+BookmarkLevel: 2
+BookmarkPageNumber: 98
+BookmarkBegin
+BookmarkTitle: 2.10 ケーススタディと演習問題
+BookmarkLevel: 2
+BookmarkPageNumber: 98
+BookmarkBegin
+BookmarkTitle: 3章 命令レベル並列性とその活用
+BookmarkLevel: 1
+BookmarkPageNumber: 108
+BookmarkBegin
+BookmarkTitle: 3.1 命令レベル並列性：概念とチャレンジ
+BookmarkLevel: 2
+BookmarkPageNumber: 108
+BookmarkBegin
+BookmarkTitle: 3.2 命令レベル並列性技術のためのコンパイラの基本
+BookmarkLevel: 2
+BookmarkPageNumber: 112
+BookmarkBegin
+BookmarkTitle: 3.3 進んだ分岐予測による分岐コストの削減
+BookmarkLevel: 2
+BookmarkPageNumber: 115
+BookmarkBegin
+BookmarkTitle: 3.4 動的スケジューリングによるデータハザードの克服
+BookmarkLevel: 2
+BookmarkPageNumber: 119
+BookmarkBegin
+BookmarkTitle: 3.5 動的スケジューリング：例題とアルゴリズム
+BookmarkLevel: 2
+BookmarkPageNumber: 124
+BookmarkBegin
+BookmarkTitle: 3.6 ハードウェアベースの投機処理
+BookmarkLevel: 2
+BookmarkPageNumber: 128
+BookmarkBegin
+BookmarkTitle: 3.7 複数命令発行と静的スケジューリングを用いた命令レベル並列性の抽出
+BookmarkLevel: 2
+BookmarkPageNumber: 134
+BookmarkBegin
+BookmarkTitle: 3.8 動的スケジューリング、複数命令発行および投機処理を用いた命令レベル並列性の抽出
+BookmarkLevel: 2
+BookmarkPageNumber: 136
+BookmarkBegin
+BookmarkTitle: 3.9 命令供給と投機処理のための高度な技術
+BookmarkLevel: 2
+BookmarkPageNumber: 140
+BookmarkBegin
+BookmarkTitle: 3.10 他の章との関連：ILPのアプローチとメモリシステム
+BookmarkLevel: 2
+BookmarkPageNumber: 145
+BookmarkBegin
+BookmarkTitle: 3.11 マルチスレッディング：単一プロセッサスループット改善のためのスレッドレベル並列性抽出
+BookmarkLevel: 2
+BookmarkPageNumber: 146
+BookmarkBegin
+BookmarkTitle: 3.12 総合的実例：ARM Cortex-A53とCore i7 6700
+BookmarkLevel: 2
+BookmarkPageNumber: 149
+BookmarkBegin
+BookmarkTitle: 3.13 誤った考えと落とし穴
+BookmarkLevel: 2
+BookmarkPageNumber: 154
+BookmarkBegin
+BookmarkTitle: 3.14 おわりに：次は何か
+BookmarkLevel: 2
+BookmarkPageNumber: 157
+BookmarkBegin
+BookmarkTitle: 3.15 歴史展望と参考文献
+BookmarkLevel: 2
+BookmarkPageNumber: 158
+BookmarkBegin
+BookmarkTitle: 3.16 ケーススタディと演習問題
+BookmarkLevel: 2
+BookmarkPageNumber: 158
+BookmarkBegin
+BookmarkTitle: 4章 ベクタ、SIMD、GPUにおけるデータレベル並列性
+BookmarkLevel: 1
+BookmarkPageNumber: 166
+BookmarkBegin
+BookmarkTitle: 4.1 はじめに
+BookmarkLevel: 2
+BookmarkPageNumber: 166
+BookmarkBegin
+BookmarkTitle: 4.2 ベクタアーキテクチャ
+BookmarkLevel: 2
+BookmarkPageNumber: 167
+BookmarkBegin
+BookmarkTitle: 4.3 マルチメディア向け SIMD拡張命令セット
+BookmarkLevel: 2
+BookmarkPageNumber: 177
+BookmarkBegin
+BookmarkTitle: 4.4 グラフィック処理ユニット
+BookmarkLevel: 2
+BookmarkPageNumber: 180
+BookmarkBegin
+BookmarkTitle: 4.5 ループレベル並列性の検出と増強
+BookmarkLevel: 2
+BookmarkPageNumber: 194
+BookmarkBegin
+BookmarkTitle: 4.6 他の章との関連
+BookmarkLevel: 2
+BookmarkPageNumber: 198
+BookmarkBegin
+BookmarkTitle: 4.7 総合的な実例：組み込み対サーバ GPU、およびTesla対Core i7
+BookmarkLevel: 2
+BookmarkPageNumber: 199
+BookmarkBegin
+BookmarkTitle: 4.8 誤った考えと落とし穴
+BookmarkLevel: 2
+BookmarkPageNumber: 203
+BookmarkBegin
+BookmarkTitle: 4.9 おわりに
+BookmarkLevel: 2
+BookmarkPageNumber: 204
+BookmarkBegin
+BookmarkTitle: 4.10 歴史展望と参考文献
+BookmarkLevel: 2
+BookmarkPageNumber: 204
+BookmarkBegin
+BookmarkTitle: 4.11 ケーススタディと演習問題
+BookmarkLevel: 2
+BookmarkPageNumber: 204
+BookmarkBegin
+BookmarkTitle: 5章 スレッドレベル並列性
+BookmarkLevel: 1
+BookmarkPageNumber: 210
+BookmarkBegin
+BookmarkTitle: 5.1 はじめに
+BookmarkLevel: 2
+BookmarkPageNumber: 210
+BookmarkBegin
+BookmarkTitle: 5.2 集中共有メモリ型アーキテクチャ
+BookmarkLevel: 2
+BookmarkPageNumber: 215
+BookmarkBegin
+BookmarkTitle: 5.3 対称型共有メモリ型マルチプロセッサの性能
+BookmarkLevel: 2
+BookmarkPageNumber: 224
+BookmarkBegin
+BookmarkTitle: 5.4 分散共有メモリとディレクトリベースコヒーレンス制御
+BookmarkLevel: 2
+BookmarkPageNumber: 230
+BookmarkBegin
+BookmarkTitle: 5.5 同期：その基本
+BookmarkLevel: 2
+BookmarkPageNumber: 234
+BookmarkBegin
+BookmarkTitle: 5.6 メモリコンシステンシモデル：導入
+BookmarkLevel: 2
+BookmarkPageNumber: 237
+BookmarkBegin
+BookmarkTitle: 5.7 他の章との関連
+BookmarkLevel: 2
+BookmarkPageNumber: 240
+BookmarkBegin
+BookmarkTitle: 5.8 総合的な実例：マルチコアプロセッサとその性能
+BookmarkLevel: 2
+BookmarkPageNumber: 242
+BookmarkBegin
+BookmarkTitle: 5.9 誤った考えと落とし穴
+BookmarkLevel: 2
+BookmarkPageNumber: 249
+BookmarkBegin
+BookmarkTitle: 5.10 マルチコアの性能向上の将来
+BookmarkLevel: 2
+BookmarkPageNumber: 251
+BookmarkBegin
+BookmarkTitle: 5.11 おわりに
+BookmarkLevel: 2
+BookmarkPageNumber: 253
+BookmarkBegin
+BookmarkTitle: 5.12 歴史展望と参考文献
+BookmarkLevel: 2
+BookmarkPageNumber: 253
+BookmarkBegin
+BookmarkTitle: 5.13 ケーススタディと演習問題
+BookmarkLevel: 2
+BookmarkPageNumber: 254
+BookmarkBegin
+BookmarkTitle: 6章 要求レベル並列性/データレベル並列性を利用した要求レベル並列性/データレベル並列性を利用した
+BookmarkLevel: 1
+BookmarkPageNumber: 264
+BookmarkBegin
+BookmarkTitle: 6.1 はじめに
+BookmarkLevel: 2
+BookmarkPageNumber: 264
+BookmarkBegin
+BookmarkTitle: 6.2 ウェアハウススケールコンピュータのプログラミングモデルとワークロード
+BookmarkLevel: 2
+BookmarkPageNumber: 267
+BookmarkBegin
+BookmarkTitle: 6.3 ウェアハウススケールコンピュータのコンピュータアーキテクチャ
+BookmarkLevel: 2
+BookmarkPageNumber: 270
+BookmarkBegin
+BookmarkTitle: 6.4 ウェアハウススケールコンピュータの効率とコスト
+BookmarkLevel: 2
+BookmarkPageNumber: 273
+BookmarkBegin
+BookmarkTitle: 6.5 クラウドコンピューティング：ユーティリティコンピューティングの復活
+BookmarkLevel: 2
+BookmarkPageNumber: 277
+BookmarkBegin
+BookmarkTitle: 6.6 他の章との関連
+BookmarkLevel: 2
+BookmarkPageNumber: 282
+BookmarkBegin
+BookmarkTitle: 6.7 総合的な実例：Google社のウェアハウススケールコンピュータ
+BookmarkLevel: 2
+BookmarkPageNumber: 284
+BookmarkBegin
+BookmarkTitle: 6.8 誤った考えと落とし穴
+BookmarkLevel: 2
+BookmarkPageNumber: 288
+BookmarkBegin
+BookmarkTitle: 6.9 おわりに
+BookmarkLevel: 2
+BookmarkPageNumber: 290
+BookmarkBegin
+BookmarkTitle: 6.10 歴史展望と参考文献
+BookmarkLevel: 2
+BookmarkPageNumber: 291
+BookmarkBegin
+BookmarkTitle: 6.11 ケーススタディと演習問題
+BookmarkLevel: 2
+BookmarkPageNumber: 291
+BookmarkBegin
+BookmarkTitle: 7章 領域特化アーキテクチャ
+BookmarkLevel: 1
+BookmarkPageNumber: 302
+BookmarkBegin
+BookmarkTitle: 7.1 はじめに
+BookmarkLevel: 2
+BookmarkPageNumber: 302
+BookmarkBegin
+BookmarkTitle: 7.2 DSAのガイドライン
+BookmarkLevel: 2
+BookmarkPageNumber: 303
+BookmarkBegin
+BookmarkTitle: 7.3 領域の例：深層ニューラルネットワーク
+BookmarkLevel: 2
+BookmarkPageNumber: 305
+BookmarkBegin
+BookmarkTitle: 7.4 GoogleのTensor プロセッシングユニット：推論データセンターの加速器
+BookmarkLevel: 2
+BookmarkPageNumber: 310
+BookmarkBegin
+BookmarkTitle: 7.5 MicrosoftのCatapult：柔軟なデータセンターの加速器
+BookmarkLevel: 2
+BookmarkPageNumber: 315
+BookmarkBegin
+BookmarkTitle: 7.6 IntelのCrest：学習向けデータセンターのアクセラレータ
+BookmarkLevel: 2
+BookmarkPageNumber: 320
+BookmarkBegin
+BookmarkTitle: 7.7 Pixel Visual Core：パーソナルモバイルデバイスの画像処理ユニット
+BookmarkLevel: 2
+BookmarkPageNumber: 321
+BookmarkBegin
+BookmarkTitle: 7.8 他の章との関連
+BookmarkLevel: 2
+BookmarkPageNumber: 327
+BookmarkBegin
+BookmarkTitle: 7.9 総合的的な実例：CPU、GPU、DNNアクセラレータの比較
+BookmarkLevel: 2
+BookmarkPageNumber: 328
+BookmarkBegin
+BookmarkTitle: 7.10 誤った考えと落とし穴
+BookmarkLevel: 2
+BookmarkPageNumber: 332
+BookmarkBegin
+BookmarkTitle: 7.11 おわりに
+BookmarkLevel: 2
+BookmarkPageNumber: 333
+BookmarkBegin
+BookmarkTitle: 7.12 歴史展望と参考文献
+BookmarkLevel: 2
+BookmarkPageNumber: 334
+BookmarkBegin
+BookmarkTitle: 7.13 ケーススタディと演習問題
+BookmarkLevel: 2
+BookmarkPageNumber: 334
+BookmarkBegin
+BookmarkTitle: 付録A 命令セットの原理
+BookmarkLevel: 1
+BookmarkPageNumber: 340
+BookmarkBegin
+BookmarkTitle: A.1 はじめに
+BookmarkLevel: 2
+BookmarkPageNumber: 340
+BookmarkBegin
+BookmarkTitle: A.2 命令セットアーキテクチャの分類
+BookmarkLevel: 2
+BookmarkPageNumber: 341
+BookmarkBegin
+BookmarkTitle: A.3 メモリアドレッシング
+BookmarkLevel: 2
+BookmarkPageNumber: 343
+BookmarkBegin
+BookmarkTitle: A.4 オペランドタイプとオペランドサイズ
+BookmarkLevel: 2
+BookmarkPageNumber: 346
+BookmarkBegin
+BookmarkTitle: A.5 命令セットにおける命令操作
+BookmarkLevel: 2
+BookmarkPageNumber: 347
+BookmarkBegin
+BookmarkTitle: A.6 制御のための命令
+BookmarkLevel: 2
+BookmarkPageNumber: 348
+BookmarkBegin
+BookmarkTitle: A.7 命令セットのエンコード
+BookmarkLevel: 2
+BookmarkPageNumber: 350
+BookmarkBegin
+BookmarkTitle: A.8 他の章との関連：コンパイラの役割
+BookmarkLevel: 2
+BookmarkPageNumber: 352
+BookmarkBegin
+BookmarkTitle: A.9 総合的な実例：RISC-Vアーキテクチャ
+BookmarkLevel: 2
+BookmarkPageNumber: 356
+BookmarkBegin
+BookmarkTitle: A.10 誤った考えと落とし穴
+BookmarkLevel: 2
+BookmarkPageNumber: 361
+BookmarkBegin
+BookmarkTitle: A.11 おわりに
+BookmarkLevel: 2
+BookmarkPageNumber: 363
+BookmarkBegin
+BookmarkTitle: A.12 歴史展望と参考文献
+BookmarkLevel: 2
+BookmarkPageNumber: 363
+BookmarkBegin
+BookmarkTitle: A.13 演習問題
+BookmarkLevel: 2
+BookmarkPageNumber: 363
+BookmarkBegin
+BookmarkTitle: 付録B メモリ階層の復習
+BookmarkLevel: 1
+BookmarkPageNumber: 368
+BookmarkBegin
+BookmarkTitle: B.1 はじめに
+BookmarkLevel: 2
+BookmarkPageNumber: 368
+BookmarkBegin
+BookmarkTitle: B.2 キャッシュの性能
+BookmarkLevel: 2
+BookmarkPageNumber: 375
+BookmarkBegin
+BookmarkTitle: B.3 6つの基本的なキャッシュ改良法
+BookmarkLevel: 2
+BookmarkPageNumber: 379
+BookmarkBegin
+BookmarkTitle: B.4 仮想メモリ
+BookmarkLevel: 2
+BookmarkPageNumber: 388
+BookmarkBegin
+BookmarkTitle: B.5 仮想メモリの保護とその例
+BookmarkLevel: 2
+BookmarkPageNumber: 392
+BookmarkBegin
+BookmarkTitle: B.6 誤った考えと落とし穴
+BookmarkLevel: 2
+BookmarkPageNumber: 397
+BookmarkBegin
+BookmarkTitle: B.7 おわりに
+BookmarkLevel: 2
+BookmarkPageNumber: 398
+BookmarkBegin
+BookmarkTitle: B.8 歴史展望と参考文献
+BookmarkLevel: 2
+BookmarkPageNumber: 398
+BookmarkBegin
+BookmarkTitle: B.9 演習問題
+BookmarkLevel: 2
+BookmarkPageNumber: 398
+BookmarkBegin
+BookmarkTitle: 付録C パイプライン処理：基本および中間的な概念
+BookmarkLevel: 1
+BookmarkPageNumber: 402
+BookmarkBegin
+BookmarkTitle: C.1 はじめに
+BookmarkLevel: 2
+BookmarkPageNumber: 402
+BookmarkBegin
+BookmarkTitle: C.2 パイプライン処理の主要な障害：パイプラインハザード
+BookmarkLevel: 2
+BookmarkPageNumber: 406
+BookmarkBegin
+BookmarkTitle: C.3 パイプラインの実装法
+BookmarkLevel: 2
+BookmarkPageNumber: 414
+BookmarkBegin
+BookmarkTitle: C.4 何がパイプラインの実装を困難にするのか
+BookmarkLevel: 2
+BookmarkPageNumber: 420
+BookmarkBegin
+BookmarkTitle: C.5 複数サイクル演算を扱うためのRISC-V整数パイプライン拡張
+BookmarkLevel: 2
+BookmarkPageNumber: 424
+BookmarkBegin
+BookmarkTitle: C.6 総合的な実例：MIPS R4000パイプライン
+BookmarkLevel: 2
+BookmarkPageNumber: 430
+BookmarkBegin
+BookmarkTitle: C.7 他の章との関連
+BookmarkLevel: 2
+BookmarkPageNumber: 434
+BookmarkBegin
+BookmarkTitle: C.8 誤った考えと落とし穴
+BookmarkLevel: 2
+BookmarkPageNumber: 437
+BookmarkBegin
+BookmarkTitle: C.9 おわりに
+BookmarkLevel: 2
+BookmarkPageNumber: 437
+BookmarkBegin
+BookmarkTitle: C.10 歴史展望と参考文献
+BookmarkLevel: 2
+BookmarkPageNumber: 437
+BookmarkBegin
+BookmarkTitle: C.11 演習問題
+BookmarkLevel: 2
+BookmarkPageNumber: 438
