@@ -275,7 +275,7 @@ BookmarkTitle: 5.13 ケーススタディと演習問題
 BookmarkLevel: 2
 BookmarkPageNumber: 254
 BookmarkBegin
-BookmarkTitle: 6章 要求レベル並列性/データレベル並列性を利用した要求レベル並列性/データレベル並列性を利用した
+BookmarkTitle: 6章 要求レベル並列性/データレベル並列性を利用したウェアハウススケールコンピュータ
 BookmarkLevel: 1
 BookmarkPageNumber: 264
 BookmarkBegin
@@ -343,7 +343,7 @@ BookmarkTitle: 7.4 GoogleのTensor プロセッシングユニット：推論デ
 BookmarkLevel: 2
 BookmarkPageNumber: 310
 BookmarkBegin
-BookmarkTitle: 7.5 MicrosoftのCatapult：柔軟なデータセンターの加速器
+BookmarkTitle: 7.5 MicrosoftのCatapult：柔軟なデータセンターのアクセラレータ
 BookmarkLevel: 2
 BookmarkPageNumber: 315
 BookmarkBegin
@@ -351,7 +351,7 @@ BookmarkTitle: 7.6 IntelのCrest：学習向けデータセンターのアクセ
 BookmarkLevel: 2
 BookmarkPageNumber: 320
 BookmarkBegin
-BookmarkTitle: 7.7 Pixel Visual Core：パーソナルモバイルデバイスの画像処理ユニット
+BookmarkTitle: 7.7 Pixel Visual Core：パーソナルモバイルデバイスのための画像処理ユニット
 BookmarkLevel: 2
 BookmarkPageNumber: 321
 BookmarkBegin
