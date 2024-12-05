@@ -21,41 +21,37 @@ PdfID0: 34528d7602740b17092352f962fa2443
 PdfID1: c19af9698d3044f488182bfb43903c50
 NumberOfPages: 474
 BookmarkBegin
-BookmarkTitle: Front cover
+BookmarkTitle: 表紙
 BookmarkLevel: 1
 BookmarkPageNumber: 1
 BookmarkBegin
-BookmarkTitle: Title page
+BookmarkTitle: タイトルページ
 BookmarkLevel: 1
 BookmarkPageNumber: 2
 BookmarkBegin
-BookmarkTitle: Copyright page 1
+BookmarkTitle: 著作権表示
 BookmarkLevel: 1
 BookmarkPageNumber: 3
 BookmarkBegin
-BookmarkTitle: Dedication
+BookmarkTitle: 献辞
 BookmarkLevel: 1
 BookmarkPageNumber: 4
 BookmarkBegin
-BookmarkTitle: About author
+BookmarkTitle: チューリング賞受賞の著者
 BookmarkLevel: 1
 BookmarkPageNumber: 5
 BookmarkBegin
-BookmarkTitle: Preface
+BookmarkTitle: 序文
 BookmarkLevel: 1
 BookmarkPageNumber: 6
 BookmarkBegin
-BookmarkTitle: Acknowledgment
+BookmarkTitle: 謝辞
 BookmarkLevel: 1
 BookmarkPageNumber: 12
 BookmarkBegin
-BookmarkTitle: Contents
+BookmarkTitle: 目次
 BookmarkLevel: 1
 BookmarkPageNumber: 16
-BookmarkBegin
-BookmarkTitle: body
-BookmarkLevel: 1
-BookmarkPageNumber: 22
 BookmarkBegin
 BookmarkTitle: 1章 定量的な設計と解析の基礎
 BookmarkLevel: 1
@@ -333,7 +329,7 @@ BookmarkTitle: 5.13 ケーススタディと演習問題
 BookmarkLevel: 2
 BookmarkPageNumber: 254
 BookmarkBegin
-BookmarkTitle: 6章 要求レベル並列性/データレベル並列性を利用した要求レベル並列性/データレベル並列性を利用した
+BookmarkTitle: 6章 要求レベル並列性/データレベル並列性を利用したウェアハウススケールコンピュータ
 BookmarkLevel: 1
 BookmarkPageNumber: 264
 BookmarkBegin
@@ -401,7 +397,7 @@ BookmarkTitle: 7.4 GoogleのTensor プロセッシングユニット：推論デ
 BookmarkLevel: 2
 BookmarkPageNumber: 310
 BookmarkBegin
-BookmarkTitle: 7.5 MicrosoftのCatapult：柔軟なデータセンターの加速器
+BookmarkTitle: 7.5 MicrosoftのCatapult：柔軟なデータセンターのアクセラレータ
 BookmarkLevel: 2
 BookmarkPageNumber: 315
 BookmarkBegin
@@ -409,7 +405,7 @@ BookmarkTitle: 7.6 IntelのCrest：学習向けデータセンターのアクセ
 BookmarkLevel: 2
 BookmarkPageNumber: 320
 BookmarkBegin
-BookmarkTitle: 7.7 Pixel Visual Core：パーソナルモバイルデバイスの画像処理ユニット
+BookmarkTitle: 7.7 Pixel Visual Core：パーソナルモバイルデバイスのための画像処理ユニット
 BookmarkLevel: 2
 BookmarkPageNumber: 321
 BookmarkBegin
@@ -581,29 +577,29 @@ BookmarkTitle: C.11 演習問題
 BookmarkLevel: 2
 BookmarkPageNumber: 438
 BookmarkBegin
-BookmarkTitle: Reference
+BookmarkTitle: 参考文献
 BookmarkLevel: 1
 BookmarkPageNumber: 442
 BookmarkBegin
-BookmarkTitle: Index
+BookmarkTitle: 索引
 BookmarkLevel: 1
 BookmarkPageNumber: 462
 BookmarkBegin
-BookmarkTitle: Appendix
+BookmarkTitle: その他の付録
 BookmarkLevel: 1
 BookmarkPageNumber: 468
 BookmarkBegin
-BookmarkTitle: Afterword
+BookmarkTitle: 訳者あとがき
 BookmarkLevel: 1
 BookmarkPageNumber: 471
 BookmarkBegin
-BookmarkTitle: Copyright page2
+BookmarkTitle: 奥付
 BookmarkLevel: 1
-BookmarkPageNumber: 0
+BookmarkPageNumber: 473
 BookmarkBegin
-BookmarkTitle: Back cover
+BookmarkTitle: 著者紹介
 BookmarkLevel: 1
-BookmarkPageNumber: 0
+BookmarkPageNumber: 474
 PageMediaBegin
 PageMediaNumber: 1
 PageMediaRotation: 0
