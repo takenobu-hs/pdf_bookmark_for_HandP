@@ -4,7 +4,7 @@
 --
 -- Of course, you can use awk instead of haskell :)
 --
--- Usage: $ doctest genBookmark.hs < TOC.tsv
+-- Usage: $ runhaskell genBookmark.hs < TOC.tsv
 --
 --
 
