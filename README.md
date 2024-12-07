@@ -8,7 +8,7 @@ This is unofficial information on how to add bookmarks (outline) to the Japanese
 The book is available for purchase from the following official website:
   * https://tatsu-zine.com/books/computer-architecture-6ed
 
-This PDF does not have bookmarks (outline) in the body content. Therefore, you can add them using the data from this repository and following the step below.
+This PDF does not have bookmarks (outline) in the body content as of Dec. 2024. Therefore, you can add them using the data from this repository and following the step below.
 
 
 ## Disclaimer
